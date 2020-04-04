@@ -1,0 +1,1 @@
+There are a few key aspects of python that are incredibly useful for working with big data and big data applications. In this lecture, we will cover the basics to ensure everyone has a good understanding of python development going forward.
